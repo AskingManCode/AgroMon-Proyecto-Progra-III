@@ -1,0 +1,93 @@
+[
+    {
+        "ID Lectura": "LEC-002",
+        "ID Sensor": "SEN-002",
+        "ID Parcela": "PAR-002",
+        "Fecha y Hora": "28 de octubre de 2025 a las 12:50:11 AM",
+        "Valor Detectado": 0.05
+    },
+    {
+        "ID Lectura": "LEC-003",
+        "ID Sensor": "SEN-003",
+        "ID Parcela": "PAR-003",
+        "Fecha y Hora": "28 de octubre de 2025 a las 01:10:05 AM",
+        "Valor Detectado": 0.4
+    },
+    {
+        "ID Lectura": "LEC-004",
+        "ID Sensor": "SEN-004",
+        "ID Parcela": "PAR-003",
+        "Fecha y Hora": "28 de octubre de 2025 a las 01:45:30 AM",
+        "Valor Detectado": 1.5
+    },
+    {
+        "ID Lectura": "LEC-006",
+        "ID Sensor": "SEN-006",
+        "ID Parcela": "PAR-002",
+        "Fecha y Hora": "28 de octubre de 2025 a las 02:55:10 AM",
+        "Valor Detectado": 12.0
+    },
+    {
+        "ID Lectura": "LEC-007",
+        "ID Sensor": "SEN-007",
+        "ID Parcela": "PAR-002",
+        "Fecha y Hora": "28 de octubre de 2025 a las 03:30:25 AM",
+        "Valor Detectado": 15.0
+    },
+    {
+        "ID Lectura": "LEC-011",
+        "ID Sensor": "SEN-011",
+        "ID Parcela": "PAR-002",
+        "Fecha y Hora": "28 de octubre de 2025 a las 05:50:35 AM",
+        "Valor Detectado": 48.0
+    },
+    {
+        "ID Lectura": "LEC-012",
+        "ID Sensor": "SEN-012",
+        "ID Parcela": "PAR-002",
+        "Fecha y Hora": "28 de octubre de 2025 a las 06:25:00 AM",
+        "Valor Detectado": 10.0
+    },
+    {
+        "ID Lectura": "LEC-015",
+        "ID Sensor": "SEN-015",
+        "ID Parcela": "PAR-002",
+        "Fecha y Hora": "28 de octubre de 2025 a las 08:10:59 AM",
+        "Valor Detectado": 0.55
+    },
+    {
+        "ID Lectura": "LEC-100",
+        "ID Sensor": "SEN-111",
+        "ID Parcela": "PAR-101",
+        "Fecha y Hora": "30 de octubre de 2025 a las 05:55:47 PM",
+        "Valor Detectado": 4.0
+    },
+    {
+        "ID Lectura": "LEC-101",
+        "ID Sensor": "SEN-113",
+        "ID Parcela": "PAR-101",
+        "Fecha y Hora": "30 de octubre de 2025 a las 05:56:16 PM",
+        "Valor Detectado": 100.01
+    },
+    {
+        "ID Lectura": "LEC-102",
+        "ID Sensor": "SEN-112",
+        "ID Parcela": "PAR-101",
+        "Fecha y Hora": "30 de octubre de 2025 a las 05:56:42 PM",
+        "Valor Detectado": 14.0
+    },
+    {
+        "ID Lectura": "LEC-103",
+        "ID Sensor": "SEN-111",
+        "ID Parcela": "PAR-101",
+        "Fecha y Hora": "30 de octubre de 2025 a las 05:57:05 PM",
+        "Valor Detectado": 14.0
+    },
+    {
+        "ID Lectura": "LEC-222",
+        "ID Sensor": "SEN-113",
+        "ID Parcela": "PAR-101",
+        "Fecha y Hora": "30 de octubre de 2025 a las 05:57:32 PM",
+        "Valor Detectado": 24.0
+    }
+]

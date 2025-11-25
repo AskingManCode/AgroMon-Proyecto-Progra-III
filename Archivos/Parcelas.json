@@ -1,0 +1,42 @@
+[
+    {
+        "ID Parcela": "PAR-002",
+        "Nombre": "Valle De Manzanas",
+        "Ubicacion Geografica": {
+            "Latitud": -34.6,
+            "Longitud": 50.38
+        },
+        "Tipo Cultivo": "Manzanas",
+        "Area": 1500.0
+    },
+    {
+        "ID Parcela": "PAR-003",
+        "Nombre": "Finca Raices",
+        "Ubicacion Geografica": {
+            "Latitud": 5.0,
+            "Longitud": 74.0
+        },
+        "Tipo Cultivo": "Papas",
+        "Area": 850.75
+    },
+    {
+        "ID Parcela": "PAR-101",
+        "Nombre": "Parcela Nueva Esperanza",
+        "Ubicacion Geografica": {
+            "Latitud": 9.891939,
+            "Longitud": -83.859956
+        },
+        "Tipo Cultivo": "Fresas",
+        "Area": 100.0
+    },
+    {
+        "ID Parcela": "PAR-001",
+        "Nombre": "Dfg",
+        "Ubicacion Geografica": {
+            "Latitud": 2.0,
+            "Longitud": 3.0
+        },
+        "Tipo Cultivo": "Rws",
+        "Area": 5.0
+    }
+]

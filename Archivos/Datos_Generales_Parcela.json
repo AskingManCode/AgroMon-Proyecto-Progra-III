@@ -1,0 +1,42 @@
+[
+    {
+        "ID Parcela": "PAR-002",
+        "Zona Radicular": 0.5,
+        "Eficiencia Sistema": 0.7,
+        "Umbral Humedad Hoja": {
+            "Humedad Minima": 35.0,
+            "Humedad Maxima": 60.0
+        },
+        "Volumen Riego Deseado": 1.8
+    },
+    {
+        "ID Parcela": "PAR-003",
+        "Zona Radicular": 1.0,
+        "Eficiencia Sistema": 0.9,
+        "Umbral Humedad Hoja": {
+            "Humedad Minima": 65.0,
+            "Humedad Maxima": 90.0
+        },
+        "Volumen Riego Deseado": 5.0
+    },
+    {
+        "ID Parcela": "PAR-101",
+        "Zona Radicular": 0.3,
+        "Eficiencia Sistema": 0.5,
+        "Umbral Humedad Hoja": {
+            "Humedad Minima": 10.0,
+            "Humedad Maxima": 25.0
+        },
+        "Volumen Riego Deseado": 4.75
+    },
+    {
+        "ID Parcela": "PAR-001",
+        "Zona Radicular": 0.5,
+        "Eficiencia Sistema": 0.6,
+        "Umbral Humedad Hoja": {
+            "Humedad Minima": 50.0,
+            "Humedad Maxima": 60.0
+        },
+        "Volumen Riego Deseado": 2.36
+    }
+]

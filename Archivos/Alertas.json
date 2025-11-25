@@ -1,0 +1,16 @@
+[
+    {
+        "ID Parcela": "PAR-003",
+        "ID Sensor": "SEN-004",
+        "Fecha Alerta": "28 de octubre de 2025 a las 01:45:30 AM",
+        "Tipo Alerta": "Alerta de Riego",
+        "Valor Detectado": 1.5
+    },
+    {
+        "ID Parcela": "PAR-002",
+        "ID Sensor": "SEN-007",
+        "Fecha Alerta": "28 de octubre de 2025 a las 03:30:25 AM",
+        "Tipo Alerta": "Alerta de Humedad Excesiva",
+        "Valor Detectado": 15.0
+    }
+]
