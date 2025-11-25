@@ -1,0 +1,167 @@
+[
+    {
+        "ID Sensor": "SEN-002",
+        "Tipo Sensor": "Sensor de Temperatura",
+        "Unidad de Medida": "°C",
+        "Estado Sensor": "Activo",
+        "ID Parcela": "PAR-002", 
+        "Ubicacion en Parcela": {
+            "Coordenada X": 5.8,
+            "Coordenada Y": 4.1
+        },
+        "Rangos Validos": {
+            "Minimo": 0.0,
+            "Maximo": 20.0
+        }
+    },
+    {
+        "ID Sensor": "SEN-003",
+        "Tipo Sensor": "Sensor de Humedad del Suelo",
+        "Unidad de Medida": "m³/m³",
+        "Estado Sensor": "Activo",
+        "ID Parcela": "PAR-003",
+        "Ubicacion en Parcela": {
+            "Coordenada X": 9.6,
+            "Coordenada Y": 10.2
+        },
+        "Rangos Validos": {
+            "Minimo": 0.2,
+            "Maximo": 0.55
+        }
+    },
+    {
+        "ID Sensor": "SEN-004",
+        "Tipo Sensor": "Sensor de Humedad de la Hoja",
+        "Unidad de Medida": "%",
+        "Estado Sensor": "Activo",
+        "ID Parcela": "PAR-003",
+        "Ubicacion en Parcela": {
+            "Coordenada X": 11.1,
+            "Coordenada Y": 7.0
+        },
+        "Rangos Validos": {
+            "Minimo": 3.0,
+            "Maximo": 14.5
+        }
+    },
+    {
+        "ID Sensor": "SEN-006",
+        "Tipo Sensor": "Sensor de Temperatura",
+        "Unidad de Medida": "°C",
+        "Estado Sensor": "Activo",
+        "ID Parcela": "PAR-002",
+        "Ubicacion en Parcela": {
+            "Coordenada X": 6.0,
+            "Coordenada Y": 3.0
+        },
+        "Rangos Validos": {
+            "Minimo": 10.0,
+            "Maximo": 40.0
+        }
+    },
+    {
+        "ID Sensor": "SEN-007",
+        "Tipo Sensor": "Sensor de Humedad de la Hoja",
+        "Unidad de Medida": "%",
+        "Estado Sensor": "Activo",
+        "ID Parcela": "PAR-002",
+        "Ubicacion en Parcela": {
+            "Coordenada X": 7.5,
+            "Coordenada Y": 5.2
+        },
+        "Rangos Validos": {
+            "Minimo": 4.0,
+            "Maximo": 13.0
+        }
+    },
+    {
+        "ID Sensor": "SEN-011",
+        "Tipo Sensor": "Sensor de Temperatura",
+        "Unidad de Medida": "°C",
+        "Estado Sensor": "Activo",
+        "ID Parcela": "PAR-002",
+        "Ubicacion en Parcela": {
+            "Coordenada X": 5.5,
+            "Coordenada Y": 5.5
+        },
+        "Rangos Validos": {
+            "Minimo": 5.0,
+            "Maximo": 50.0
+        }
+    },
+    {
+        "ID Sensor": "SEN-012",
+        "Tipo Sensor": "Sensor de Humedad de la Hoja",
+        "Unidad de Medida": "%",
+        "Estado Sensor": "Activo",
+        "ID Parcela": "PAR-002",
+        "Ubicacion en Parcela": {
+            "Coordenada X": 8.0,
+            "Coordenada Y": 4.0
+        },
+        "Rangos Validos": {
+            "Minimo": 6.0,
+            "Maximo": 12.5
+        }
+    },
+    {
+        "ID Sensor": "SEN-015",
+        "Tipo Sensor": "Sensor de Humedad del Suelo",
+        "Unidad de Medida": "m³/m³",
+        "Estado Sensor": "Activo",
+        "ID Parcela": "PAR-002",
+        "Ubicacion en Parcela": {
+            "Coordenada X": 7.0,
+            "Coordenada Y": 3.8
+        },
+        "Rangos Validos": {
+            "Minimo": 0.25,
+            "Maximo": 0.5
+        }
+    },
+    {
+        "ID Sensor": "SEN-111",
+        "Tipo Sensor": "Sensor de Humedad de la Hoja",
+        "Unidad de Medida": "%",
+        "Estado Sensor": "Activo",
+        "ID Parcela": "PAR-101",
+        "Ubicacion en Parcela": {
+            "Coordenada X": 9.891938,
+            "Coordenada Y": -83.85995
+        },
+        "Rangos Validos": {
+            "Minimo": 0.0,
+            "Maximo": 15.0
+        }
+    },
+    {
+        "ID Sensor": "SEN-113",
+        "Tipo Sensor": "Sensor de Temperatura",
+        "Unidad de Medida": "°C",
+        "Estado Sensor": "Activo",
+        "ID Parcela": "PAR-101",
+        "Ubicacion en Parcela": {
+            "Coordenada X": 9.891938,
+            "Coordenada Y": -83.85995
+        },
+        "Rangos Validos": {
+            "Minimo": 0.0,
+            "Maximo": 60.0
+        }
+    },
+    {
+        "ID Sensor": "SEN-112",
+        "Tipo Sensor": "Sensor de Humedad de la Hoja",
+        "Unidad de Medida": "%",
+        "Estado Sensor": "Activo",
+        "ID Parcela": "PAR-101",
+        "Ubicacion en Parcela": {
+            "Coordenada X": 9.892938,
+            "Coordenada Y": -83.85395
+        },
+        "Rangos Validos": {
+            "Minimo": 0.0,
+            "Maximo": 15.0
+        }
+    }
+]
